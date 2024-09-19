@@ -12,18 +12,18 @@ These niches have been both fascinating and challenging. Each of the following p
 
 ### 📈 **Key Projects**
 
-#### ⌛ **Time Series Data Forecasting**
+### ⌛ **Time Series Data Forecasting**
 
-##### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
+#### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
 In this project, I delved into **State Space Models** to perform statistical approximations of complex time series data. Faced with unpredictable factors like human behavior and volatile weather patterns, I developed a robust model that provides accurate predictions amidst uncertainty, demonstrating the practical applications of statistical methods in real-world scenarios.
 
-##### [SVM Time Series Prediction](https://github.com/dharvpat/SVM-Time-series-data-prediction)
+#### [SVM Time Series Prediction](https://github.com/dharvpat/SVM-Time-series-data-prediction)
 Utilizing **Support Vector Machines (SVM)**, this project performs numerical approximation of time series data. Perfect for datasets influenced by predictable factors like natural phenomena or consistent physical processes, I explored how SVMs can effectively capture underlying patterns to deliver precise forecasts.
 
-##### [LSTM Stock Prediction](https://github.com/dharvpat/LSTM_stock_prediciton)
+#### [LSTM Stock Prediction](https://github.com/dharvpat/LSTM_stock_prediciton)
 Leveraging **Long Short-Term Memory (LSTM) Networks**, this deep learning project models recurrent processes within time series data. Tailored for stock market predictions, it captures the intricate dependencies and recursive changes in stock prices, offering highly accurate forecasting capabilities.
 
-#### 📚 **Papers in Code**
+### 📚 **Papers in Code**
 
 ##### [Deep Reinforcement Learning](https://github.com/dharvpat/Papers-in-code/tree/main/A%20survey%20on%20deep%20reinforcement%20learning)
 An in-depth exploration of **Reinforcement Learning** techniques, this project implements both **DQN** and **A3C** methodologies. It delves into advanced topics like **Transfer Learning**, **Trust Region Policy Optimization (TRPO)**, and **Proximal Policy Optimization (PPO)**, providing a comprehensive survey and practical implementations.
