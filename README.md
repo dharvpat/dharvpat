@@ -48,6 +48,9 @@ A comprehensive collection of projects focused on **Natural Language Understandi
 #### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
 This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
 
+#### [Reproducing GPT-2]
+This project is in the early stages of development. No repository yet. But eventually the goal is to replicate the architecture of GPT-2 and train it using google colab and the massive resources it offers. 
+
 ### 🎧 **Additional Projects on Signal Processing**
 
 #### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
