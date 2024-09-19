@@ -80,9 +80,9 @@ Currently, I'm focused on advancing my expertise in **Machine Learning**. My goa
 
 ## 🌟 **Fun Facts**
 
-- **Tech Enthusiast:** Always exploring the latest advancements in AI and machine learning.
-- **Lifelong Learner:** Committed to continuous education through courses, workshops, and hands-on projects.
-- **Hobbyist Photographer:** Enjoy capturing moments and experimenting with image processing techniques.
+- **Tech Enthusiast:** Always exploring the latest advancements in AI and machine learning by keeping myself updated on the arxiv and religiously reading new ML papers.
+- **Lifelong Learner:** Committed to continuous education through courses, workshops, and hands-on projects. I started my journey in Softare Dev as a self-learner so, my drive to keep learning new ideas is unparalleled.
+- **Hobbyist Photographer:** Enjoy capturing moments and experimenting with image processing techniques, started producing time-lapses using cameras and openCV in High School, still do it from time to time.
 
 ## 📫 Get in Touch
 
