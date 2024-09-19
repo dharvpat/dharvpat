@@ -1,16 +1,20 @@
 # 👋 Hi there, I'm Dharv Patel!
 
-Welcome to my GitHub profile! I'm a passionate software developer and data enthusiast specializing in machine learning, natural language processing, and neural networks. Explore my projects below to see what I'm working on and how I bring ideas to life through code.
+Welcome to my GitHub profile! I'm a passionate software developer and data enthusiast with a keen interest in machine learning, natural language processing, and neural networks. My journey in technology began with a curiosity about how data can be harnessed to solve real-world problems, leading me to dive deep into the realms of AI and data science.
 
-## 🚀 Projects
+## 🚀 My Journey
 
-### 📈 **Time Series Data Prediction**
+From tinkering with simple Python scripts during my college days to building complex machine learning models, I started working on code in a scientific environment, namely, physics. In this job, I came across image processing and that led me to do a deep dive on image processing. In this, I learned about CUDA, and Vision Transformers, wanting to streamline our code, I implemented a straigh-off-the-shelf Vision Transformer which was very overkill for the purposes of the Project. This is why my journey started with a focus on data/statistics driven approaches(As seen in the projects below). Soon after, I came across deep learning models through which I was mesmerized by the bounds of AI (Also showcased below). This led me to pursue a master's in AI, which exposed me to variety of different but equally interesting niches of ML/AI. I've explored all of the niches I've encountered and am still passionate about AI as a whole.
+
+These niches were interesting but challenging nonetheless, Each of the following projects took solid effort to build sometimes spanning months or years. Despite the challenges, each project has been a rewarding learning experience that has strengthened my problem-solving abilities and technical expertise. I am committed to continuing this journey, eager to take on new challenges and contribute to innovative solutions across a variety of fields including but not limited to Computer Vision and Signal Processing (As shown by my project doing a deepdive into Image Compression and Noise Cancellation in a chaotic signal).
+
+### 📈 **Key Projects**
 
 #### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
-Harnessing the power of **State Space Models**, this project focuses on the statistical approximation of complex time series data. Ideal for scenarios where data fluctuations stem from unpredictable factors such as human behavior, supply/demand shifts, or volatile weather patterns. Dive into the methodology and see how these models provide robust predictions amidst uncertainty.
+In this project, I delved into **State Space Models** to perform statistical approximations of complex time series data. Faced with unpredictable factors like human behavior and volatile weather patterns, I developed a robust model that provides accurate predictions amidst uncertainty, demonstrating the practical applications of statistical methods in real-world scenarios.
 
 #### [SVM Time Series Prediction](https://github.com/dharvpat/SVM-Time-series-data-prediction)
-Utilizing **Support Vector Machines (SVM)**, this project performs numerical approximation of time series data. Perfect for datasets influenced by predictable factors like natural phenomena or consistent physical processes. Explore how SVMs can effectively capture underlying patterns to deliver precise forecasts.
+Utilizing **Support Vector Machines (SVM)**, this project performs numerical approximation of time series data. Perfect for datasets influenced by predictable factors like natural phenomena or consistent physical processes, I explored how SVMs can effectively capture underlying patterns to deliver precise forecasts.
 
 #### [LSTM Stock Prediction](https://github.com/dharvpat/LSTM_stock_prediciton)
 Leveraging **Long Short-Term Memory (LSTM) Networks**, this deep learning project models recurrent processes within time series data. Tailored for stock market predictions, it captures the intricate dependencies and recursive changes in stock prices, offering highly accurate forecasting capabilities.
@@ -48,10 +52,7 @@ A comprehensive collection of projects focused on **Natural Language Understandi
 #### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
 This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
 
-#### [Reproducing GPT-2]
-This project is in the early stages of development. No repository yet. But eventually the goal is to replicate the architecture of GPT-2 and train it using google colab and the massive resources it offers. 
-
-### 🎧 **Additional Projects on Signal Processing**
+### 🎧 **Additional Projects**
 
 #### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
 Aiming to develop a real-time **Noise Cancellation** model, this project initially started with an **AutoEncoder** architecture to remove noise from data streams. Facing architectural challenges, it pivoted to a **1D U-Net** model, achieving comparable results with significantly reduced computational time. Explore the journey and the solutions implemented to enhance real-time noise reduction.
@@ -59,26 +60,35 @@ Aiming to develop a real-time **Noise Cancellation** model, this project initial
 #### [Image Compression using Neural Networks](https://github.com/dharvpat/image)
 *In Progress*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
 
+## 🌱 Current Focus and Future Goals
+
+Currently, I'm focused on advancing my expertise in **Generative Adversarial Networks (GANs)** and **Natural Language Processing (NLP)**. My goal is to develop scalable AI solutions that can transform industries by enhancing efficiency and unlocking new possibilities. I'm also keen on contributing to open-source projects and collaborating with like-minded professionals to drive technological innovation.
+
 ## 💼 Skills
 
 - **Programming Languages:** Python, CUDA, C++, JavaScript
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, scikit-learn
-- **Tools & Technologies:** Git, Docker, Jupyter Notebook
-- **Areas of Expertise:** Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Data Analysis, Time Series Forecasting
+- **Tools & Technologies:** Git, Docker, Jupyter Notebook, REST APIs
+- **Areas of Expertise:** Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Time Series Forecasting
+
+## 🏆 Achievements
+
+- **[Kaggle Competitions](https://www.kaggle.com/dharvpat):** Competed in various machine learning challenges, refining skills in data preprocessing, feature engineering, and model optimization.
+- **[Open Source Contributions](https://github.com/dharvpat):** Enhanced functionalities and collaborated on multiple open-source projects, fostering a spirit of community and continuous improvement.
+- **[Published Papers](#):** Co-authored research papers in machine learning and data science (link to publications if available).
+
+### 🌟 **Fun Facts**
+
+- **Tech Enthusiast:** Always exploring the latest advancements in AI and machine learning.
+- **Lifelong Learner:** Committed to continuous education through courses, workshops, and hands-on projects.
+- **Hobbyist Photographer:** Enjoy capturing moments and experimenting with image processing techniques.
 
 ## 📫 Get in Touch
 
-I'm always excited to connect with fellow developers, researchers, and enthusiasts. Feel free to reach out!
+I'm always excited to connect with fellow developers, researchers, and enthusiasts. Whether you're interested in collaboration, have questions about my projects, or simply want to chat about the latest in AI, feel free to reach out!
 
 - **[LinkedIn](https://www.linkedin.com/in/dharv-p-67469b140/)**
 - **[Email](mailto:dharv.patel@gmail.com)**
-
----
-
-### 🌟 **Personality**
-
-- **Tech Enthusiast:** Always exploring the latest advancements in AI and machine learning through weekly check-ins with arxiv to keep up to date with new ideas in the field.
-- **Lifelong Learner:** Committed to continuous education through courses, workshops, and hands-on projects.
 
 ---
 
