@@ -12,8 +12,17 @@
 
 
 - [Papers in code]
+
     ([https://github.com/dharvpat/Papers-in-code/tree/main/A%20survey%20on%20deep%20reinforcement%20learning]): Reinforcement Learning using both DQN and A3C methodologies. We explore Transfer Learning as well as Trust Region Policy Optimization and Proximal Policy Optimization.
-    ([https://github.com/dharvpat/Papers-in-code/tree/main/Attention%20is%20all%20you%20need]): Reinforcement Learning using both DQN and A3C methodologies. We explore Transfer Learning as well as Trust Region Policy Optimization and Proximal Policy Optimization.
+
+    ([https://github.com/dharvpat/Papers-in-code/tree/main/Attention%20is%20all%20you%20need]): Attention is all you need is a revolutionary paper that changed everything about AI and kicked it into high gear. We discuss the various uses of Transformers as well as NLP implementations of Transformers.
+
+    ([https://github.com/dharvpat/Papers-in-code/tree/main/Contrastive%20Learning]): Contrastive Learning explores self-supervised Learning in terms of architecture and Loss functions.
+
+    ([https://github.com/dharvpat/Papers-in-code/tree/main/DiffEnc%3A%20Variational%20Diffusion%20with%20a%20Learned%20Encoder]): Diffusion models with a learned encoder for image generation and other Generative purposes.
+
+    ([https://github.com/dharvpat/Papers-in-code/tree/main/Faster%20RCNN]): CNN mopdels that are quicker than Traditional CNNs due to different processing pipeline and astonishingly well at accuracy comparedx to traditional CNNs.
+
 - [Project Three](https://github.com/dharvpat/project-three): A brief description of project three.
 
 ## 💼 Skills
