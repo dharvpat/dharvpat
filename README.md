@@ -62,20 +62,14 @@ Aiming to develop a real-time **Noise Cancellation** model, this project initial
 
 ## 🌱 Current Focus and Future Goals
 
-Currently, I'm focused on advancing my expertise in **Generative Adversarial Networks (GANs)** and **Natural Language Processing (NLP)**. My goal is to develop scalable AI solutions that can transform industries by enhancing efficiency and unlocking new possibilities. I'm also keen on contributing to open-source projects and collaborating with like-minded professionals to drive technological innovation.
+Currently, I'm focused on advancing my expertise in **Generative Adversarial Networks (GANs)** and **Signal Processing**. My goal is to develop scalable AI solutions that can transform industries by enhancing efficiency and unlocking new possibilities. I'm also keen on contributing to open-source projects and collaborating with like-minded professionals to drive technological innovation.
 
 ## 💼 Skills
 
 - **Programming Languages:** Python, CUDA, C++, JavaScript
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, scikit-learn
-- **Tools & Technologies:** Git, Docker, Jupyter Notebook, REST APIs
+- **Tools & Technologies:** Git, Jupyter Notebook
 - **Areas of Expertise:** Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Time Series Forecasting
-
-## 🏆 Achievements
-
-- **[Kaggle Competitions](https://www.kaggle.com/dharvpat):** Competed in various machine learning challenges, refining skills in data preprocessing, feature engineering, and model optimization.
-- **[Open Source Contributions](https://github.com/dharvpat):** Enhanced functionalities and collaborated on multiple open-source projects, fostering a spirit of community and continuous improvement.
-- **[Published Papers](#):** Co-authored research papers in machine learning and data science (link to publications if available).
 
 ### 🌟 **Fun Facts**
 
