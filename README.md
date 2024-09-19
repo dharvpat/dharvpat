@@ -12,54 +12,56 @@ These niches have been both fascinating and challenging. Each of the following p
 
 ### 📈 **Key Projects**
 
-#### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
+#### ⌛ **Time Series Data Forecasting**
+
+##### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
 In this project, I delved into **State Space Models** to perform statistical approximations of complex time series data. Faced with unpredictable factors like human behavior and volatile weather patterns, I developed a robust model that provides accurate predictions amidst uncertainty, demonstrating the practical applications of statistical methods in real-world scenarios.
 
-#### [SVM Time Series Prediction](https://github.com/dharvpat/SVM-Time-series-data-prediction)
+##### [SVM Time Series Prediction](https://github.com/dharvpat/SVM-Time-series-data-prediction)
 Utilizing **Support Vector Machines (SVM)**, this project performs numerical approximation of time series data. Perfect for datasets influenced by predictable factors like natural phenomena or consistent physical processes, I explored how SVMs can effectively capture underlying patterns to deliver precise forecasts.
 
-#### [LSTM Stock Prediction](https://github.com/dharvpat/LSTM_stock_prediciton)
+##### [LSTM Stock Prediction](https://github.com/dharvpat/LSTM_stock_prediciton)
 Leveraging **Long Short-Term Memory (LSTM) Networks**, this deep learning project models recurrent processes within time series data. Tailored for stock market predictions, it captures the intricate dependencies and recursive changes in stock prices, offering highly accurate forecasting capabilities.
 
-### 📚 **Papers in Code**
+#### 📚 **Papers in Code**
 
-#### [Deep Reinforcement Learning](https://github.com/dharvpat/Papers-in-code/tree/main/A%20survey%20on%20deep%20reinforcement%20learning)
+##### [Deep Reinforcement Learning](https://github.com/dharvpat/Papers-in-code/tree/main/A%20survey%20on%20deep%20reinforcement%20learning)
 An in-depth exploration of **Reinforcement Learning** techniques, this project implements both **DQN** and **A3C** methodologies. It delves into advanced topics like **Transfer Learning**, **Trust Region Policy Optimization (TRPO)**, and **Proximal Policy Optimization (PPO)**, providing a comprehensive survey and practical implementations.
 
-#### [Attention is All You Need (Transformers)](https://github.com/dharvpat/Papers-in-code/tree/main/Attention%20is%20all%20you%20need)
+##### [Attention is All You Need (Transformers)](https://github.com/dharvpat/Papers-in-code/tree/main/Attention%20is%20all%20you%20need)
 A critical analysis and implementation of the groundbreaking **Transformers** architecture introduced in the seminal paper "Attention is All You Need." This project covers various Transformer applications, particularly in **Natural Language Processing (NLP)**, demonstrating their transformative impact on AI.
 
-#### [Contrastive Learning](https://github.com/dharvpat/Papers-in-code/tree/main/Contrastive%20Learning)
+##### [Contrastive Learning](https://github.com/dharvpat/Papers-in-code/tree/main/Contrastive%20Learning)
 This project delves into **Contrastive Learning**, a self-supervised learning paradigm. It examines different architectural approaches and loss functions, highlighting how contrastive methods enhance feature representation without extensive labeled data.
 
-#### [Diffusion Models](https://github.com/dharvpat/Papers-in-code/tree/main/DiffEnc%3A%20Variational%20Diffusion%20with%20a%20Learned%20Encoder)
+##### [Diffusion Models](https://github.com/dharvpat/Papers-in-code/tree/main/DiffEnc%3A%20Variational%20Diffusion%20with%20a%20Learned%20Encoder)
 Exploring **Diffusion Models** with a learned encoder, this project focuses on image generation and other generative tasks. It showcases how diffusion processes can be harnessed for high-quality generative purposes, pushing the boundaries of what's possible in generative AI.
 
-#### [Faster R-CNN](https://github.com/dharvpat/Papers-in-code/tree/main/Faster%20RCNN)
+##### [Faster R-CNN](https://github.com/dharvpat/Papers-in-code/tree/main/Faster%20RCNN)
 An implementation of **Faster R-CNN**, this project enhances traditional CNN models by introducing a more efficient processing pipeline. The result is a model that not only speeds up computations but also maintains, and even improves, accuracy in object detection tasks.
 
-### 🎨 **Generation Networks**
+#### 🎨 **Generation Networks**
 
-#### [Variational AutoEncoder for Image Generation](https://github.com/dharvpat/VAE)
+##### [Variational AutoEncoder for Image Generation](https://github.com/dharvpat/VAE)
 This project implements **Variational AutoEncoders (VAEs)**, a type of generative model designed to create new images based on training datasets. By training on diverse image sets, the VAE learns to generate realistic and varied images, showcasing the power of encoder-decoder architectures in image synthesis.
 
-#### [Deep Convolutional Generative Adversarial Networks](https://github.com/dharvpat/MNIST-handwritten-experiments)
+##### [Deep Convolutional Generative Adversarial Networks](https://github.com/dharvpat/MNIST-handwritten-experiments)
 A hands-on project with **Deep Convolutional GANs**, this repository experiments with generating handwritten digits from the MNIST dataset. By ingesting random noise, the GAN learns to produce authentic-looking handwritten numbers, demonstrating the effectiveness of adversarial training in generative models.
 
-### 📝 **Natural Language Processing**
+#### 📝 **Natural Language Processing**
 
-#### [Natural Language Understanding](https://github.com/dharvpat/NLP)
+##### [Natural Language Understanding](https://github.com/dharvpat/NLP)
 A comprehensive collection of projects focused on **Natural Language Understanding (NLU)**. Utilizing well-established statistical methods, this repository covers tasks such as entity recognition, language modeling, and syntactic parsing, highlighting the depth and breadth of my work in NLP.
 
-#### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
+##### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
 This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
 
-### 🎧 **Additional Projects**
+#### 🎧 **Additional Projects**
 
-#### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
+##### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
 Aiming to develop a real-time **Noise Cancellation** model, this project initially started with an **AutoEncoder** architecture to remove noise from data streams. Facing architectural challenges, it pivoted to a **1D U-Net** model, achieving comparable results with significantly reduced computational time. Explore the journey and the solutions implemented to enhance real-time noise reduction.
 
-#### [Image Compression using Neural Networks](https://github.com/dharvpat/image)
+##### [Image Compression using Neural Networks](https://github.com/dharvpat/image)
 *In Progress*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
 
 ## 🌱 Current Focus and Future Goals
@@ -70,10 +72,10 @@ Currently, I'm focused on advancing my expertise in **Generative Adversarial Net
 
 - **Programming Languages:** Python, CUDA, C++, JavaScript
 - **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, scikit-learn
-- **Tools & Technologies:** Git, Jupyter Notebook
+- **Tools & Technologies:** Git, Jupyter Notebooks, Supercomputers
 - **Areas of Expertise:** Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Time Series Forecasting
 
-### 🌟 **Fun Facts**
+## 🌟 **Fun Facts**
 
 - **Tech Enthusiast:** Always exploring the latest advancements in AI and machine learning.
 - **Lifelong Learner:** Committed to continuous education through courses, workshops, and hands-on projects.
