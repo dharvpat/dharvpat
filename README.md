@@ -64,6 +64,9 @@ Aiming to develop a real-time **Noise Cancellation** model, this project initial
 ##### [Image Compression using Neural Networks](https://github.com/dharvpat/image)
 *In Progress*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
 
+##### Reproducing GPT-2
+*In Progress* The goal of this project is to fully train a reproduction of GPT-2 which is just a few generations behind the cutting-edge model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations.
+
 ## 🌱 Current Focus and Future Goals
 
 Currently, I'm focused on advancing my expertise in **Generative Adversarial Networks (GANs)** and **Signal Processing**. My goal is to develop scalable AI solutions that can transform industries by enhancing efficiency and unlocking new possibilities. I'm also keen on contributing to open-source projects and collaborating with like-minded professionals to drive technological innovation.
