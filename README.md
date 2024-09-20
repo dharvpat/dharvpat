@@ -12,7 +12,7 @@ These niches have been both fascinating and challenging. Each of the following p
 
 ## 📈 **Key Projects**
 
-#### ⌛ **Time Series Data Forecasting**
+### ⌛ **Time Series Data Forecasting**
 
 ##### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
 In this project, I delved into **State Space Models** to perform statistical approximations of complex time series data. Faced with unpredictable factors like human behavior and volatile weather patterns, I developed a robust model that provides accurate predictions amidst uncertainty, demonstrating the practical applications of statistical methods in real-world scenarios.
@@ -40,7 +40,7 @@ Exploring **Diffusion Models** with a learned encoder, this project focuses on i
 ##### [Faster R-CNN](https://github.com/dharvpat/Papers-in-code/tree/main/Faster%20RCNN)
 An implementation of **Faster R-CNN**, this project enhances traditional CNN models by introducing a more efficient processing pipeline. The result is a model that not only speeds up computations but also maintains, and even improves, accuracy in object detection tasks.
 
-#### 🎨 **Generation Networks**
+### 🎨 **Generation Networks**
 
 ##### [Variational AutoEncoder for Image Generation](https://github.com/dharvpat/VAE)
 This project implements **Variational AutoEncoders (VAEs)**, a type of generative model designed to create new images based on training datasets. By training on diverse image sets, the VAE learns to generate realistic and varied images, showcasing the power of encoder-decoder architectures in image synthesis.
@@ -48,7 +48,7 @@ This project implements **Variational AutoEncoders (VAEs)**, a type of generativ
 ##### [Deep Convolutional Generative Adversarial Networks](https://github.com/dharvpat/MNIST-handwritten-experiments)
 A hands-on project with **Deep Convolutional GANs**, this repository experiments with generating handwritten digits from the MNIST dataset. By ingesting random noise, the GAN learns to produce authentic-looking handwritten numbers, demonstrating the effectiveness of adversarial training in generative models.
 
-#### 📝 **Natural Language Processing**
+### 📝 **Natural Language Processing**
 
 ##### [Natural Language Understanding](https://github.com/dharvpat/NLP)
 A comprehensive collection of projects focused on **Natural Language Understanding (NLU)**. Utilizing well-established statistical methods, this repository covers tasks such as entity recognition, language modeling, and syntactic parsing, highlighting the depth and breadth of my work in NLP.
@@ -56,7 +56,7 @@ A comprehensive collection of projects focused on **Natural Language Understandi
 ##### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
 This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
 
-#### 🎧 **Additional Projects**
+### 🎧 **Additional Projects**
 
 ##### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
 Aiming to develop a real-time **Noise Cancellation** model, this project initially started with an **AutoEncoder** architecture to remove noise from data streams. Facing architectural challenges, it pivoted to a **1D U-Net** model, achieving comparable results with significantly reduced computational time. Explore the journey and the solutions implemented to enhance real-time noise reduction.
