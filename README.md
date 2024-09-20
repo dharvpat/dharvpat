@@ -10,7 +10,7 @@ This pivotal moment led me to pursue a master's degree in AI, where I was expose
 
 These niches have been both fascinating and challenging. Each of the following projects required substantial effort, often spanning months or years. Despite the challenges, each endeavor has been a rewarding learning experience, strengthening my problem-solving abilities and technical expertise. I am committed to continuing this journey, eager to take on new challenges and contribute to innovative solutions across various fields, as demonstrated by my projects below.
 
-### 📈 **Key Projects**
+## 📈 **Key Projects**
 
 #### ⌛ **Time Series Data Forecasting**
 
