@@ -12,6 +12,11 @@ These niches have been both fascinating and challenging. Each of the following p
 
 ## 📈 **Key Projects**
 
+### 👨‍💻 **Software Development**
+
+##### [L7 Load Balancer with interactive GUI to add/remove/edit Load Balancing rules](https://github.com/dharvpat/L7-Load-Balancer)
+**In Progress**: A Layer 7 Load Balancer Dashboard project featuring a high-performance C backend implementing the Weighted Least Connections algorithm and a user-friendly Flask frontend. It includes RESTful APIs for managing load balancing rules and backend servers, real-time metrics monitoring, configuration management, and comprehensive logging, ensuring efficient traffic distribution and seamless frontend-backend communication.
+
 ### ⌛ **Time Series Data Forecasting**
 
 ##### [State Space Model](https://github.com/dharvpat/time-series-data-prediction-SSM)
@@ -73,10 +78,10 @@ Currently, I'm focused on advancing my expertise in **Machine Learning**. My goa
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, CUDA, C++, JavaScript
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, scikit-learn
+- **Programming Languages:** Python, CUDA, C/C++, JavaScript
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, scikit-learn, REST APIs
 - **Tools & Technologies:** Git, Jupyter Notebooks, Supercomputers
-- **Areas of Expertise:** Machine Learning, Deep Learning, Natural Language Processing, Data Analysis, Time Series Forecasting
+- **Areas of Expertise:** Machine Learning, Deep Learning, Software Development, Natural Language Processing, Data Analysis, Time Series Forecasting
 
 ## 🌟 **Fun Facts**
 
