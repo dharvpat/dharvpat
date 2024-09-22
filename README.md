@@ -61,7 +61,7 @@ This project builds a **Sentiment Analysis** model using **Convolutional Neural 
 ##### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
 Aiming to develop a real-time **Noise Cancellation** model, this project initially started with an **AutoEncoder** architecture to remove noise from data streams. Facing architectural challenges, it pivoted to a **1D U-Net** model, achieving comparable results with significantly reduced computational time. Explore the journey and the solutions implemented to enhance real-time noise reduction.
 
-##### [Image Compression using Neural Networks](https://github.com/dharvpat/image)
+##### [Image Compression using Neural Networks](https://github.com/dharvpat/Image_Compression_NN)
 *In Progress*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
 
 ##### Reproducing GPT-2
