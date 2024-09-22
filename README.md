@@ -72,6 +72,9 @@ Aiming to develop a real-time **Noise Cancellation** model, this project initial
 ##### Reproducing GPT-2
 *In Progress*: The goal of this project is to fully train a reproduction of GPT-2 which is just a few generations behind the cutting-edge model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations.
 
+##### [Automating Neural Architecture Search: A Deep Dive Using Reinforcement Learning and Evolutionary Strategies](https://github.com/dharvpat/Neural-Architectural-Search/tree/main)
+*In Progress*: This project explores Neural Architecture Search (NAS) to optimize deep learning models using reinforcement learning and evolutionary algorithms. Leveraging the CIFAR-10 dataset, it automates architecture design, balancing accuracy and computational cost. Inspired by "Neural Architecture Search: Insights from 1000 Papers", it highlights advanced machine learning optimization techniques for efficient model building.
+
 ## 🌱 Current Focus and Future Goals
 
 Currently, I'm focused on advancing my expertise in **Machine Learning**. My goal is to develop scalable ML solutions that can transform industries by enhancing efficiency and unlocking new possibilities. I'm also keen on contributing to open-source projects and collaborating with like-minded professionals to drive technological innovation.
