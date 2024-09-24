@@ -72,8 +72,8 @@ This project automates the design of deep learning models using Neural Architect
 ##### [Image Compression using Neural Networks](https://github.com/dharvpat/Image_Compression_NN)
 *In Progress*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
 
-##### Reproducing GPT-2
-*In Progress*: The goal of this project is to fully train a reproduction of GPT-2 which is just a few generations behind current model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations.
+##### Reproducing GPT-3
+*In Progress*: The goal of this project is to fully train a reproduction of GPT-3 which is just a few generations behind current model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations.
 
 ## 🌱 Current Focus and Future Goals
 
