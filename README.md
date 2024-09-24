@@ -70,7 +70,7 @@ Aiming to develop a real-time **Noise Cancellation** model, this project initial
 This project automates the design of deep learning models using Neural Architecture Search (NAS). Leveraging both Reinforcement Learning (RL) and Evolutionary Algorithms (EA), it dynamically generates and optimizes architectures for image classification on the CIFAR-10 dataset. The project explores how NAS can outperform manual architecture design by efficiently balancing accuracy and computational cost, based on insights from the paper "Neural Architecture Search: Insights from 1000 Papers." The final models are evaluated based on accuracy, complexity, and efficiency.
 
 ##### [Image Compression using Neural Networks](https://github.com/dharvpat/Image_Compression_NN)
-*In Progress*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
+*In Progress (prototype ready)*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
 
 ##### Reproducing GPT-3
 *In Progress*: The goal of this project is to fully train a reproduction of GPT-3 which is just a few generations behind current model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations.
