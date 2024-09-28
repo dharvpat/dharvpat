@@ -12,6 +12,17 @@ These niches have been both fascinating and challenging. Each of the following p
 
 ## 📈 **Key Projects**
 
+### 📝 **Natural Language Processing and LLMs**
+
+##### [Natural Language Understanding](https://github.com/dharvpat/NLP)
+A comprehensive collection of projects focused on **Natural Language Understanding (NLU)**. Utilizing well-established statistical methods, this repository covers tasks such as entity recognition, language modeling, and syntactic parsing, highlighting the depth and breadth of my work in NLP.
+
+##### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
+This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
+
+##### [Reproducing GPT-3](https://github.com/dharvpat/GPT-3-Reproduction)
+*In Progress*: The goal of this project is to fully train a reproduction of GPT-3 which is just a few generations behind current model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations. Due to hardware limitations, we will train a smaller model but the core of the model should work identically.
+
 ### 👨‍💻 **Software Development**
 
 ##### [L7 Load Balancer and intuitive GUI to edit rules](https://github.com/dharvpat/L7-Load-Balancer)
@@ -53,14 +64,6 @@ This project implements **Variational AutoEncoders (VAEs)**, a type of generativ
 ##### [Deep Convolutional Generative Adversarial Networks](https://github.com/dharvpat/MNIST-handwritten-experiments)
 A hands-on project with **Deep Convolutional GANs**, this repository experiments with generating handwritten digits from the MNIST dataset. By ingesting random noise, the GAN learns to produce authentic-looking handwritten numbers, demonstrating the effectiveness of adversarial training in generative models.
 
-### 📝 **Natural Language Processing**
-
-##### [Natural Language Understanding](https://github.com/dharvpat/NLP)
-A comprehensive collection of projects focused on **Natural Language Understanding (NLU)**. Utilizing well-established statistical methods, this repository covers tasks such as entity recognition, language modeling, and syntactic parsing, highlighting the depth and breadth of my work in NLP.
-
-##### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
-This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
-
 ### 🎧 **Additional Projects**
 
 ##### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
@@ -71,9 +74,6 @@ This project automates the design of deep learning models using Neural Architect
 
 ##### [Image Compression using Neural Networks](https://github.com/dharvpat/Image_Compression_NN)
 *In Progress (prototype ready)*: This project focuses on **Image Compression** using neural networks. By leveraging advanced compression algorithms, the goal is to reduce image sizes without compromising quality, paving the way for efficient storage and transmission solutions.
-
-##### [Reproducing GPT-3](https://github.com/dharvpat/GPT-3-Reproduction)
-*In Progress*: The goal of this project is to fully train a reproduction of GPT-3 which is just a few generations behind current model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations. Due to hardware limitations, we will train a smaller model but the core of the model should work identically.
 
 ## 🌱 Current Focus and Future Goals
 
