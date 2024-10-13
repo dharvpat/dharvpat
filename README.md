@@ -26,7 +26,7 @@ This project builds a **Sentiment Analysis** model using **Convolutional Neural 
 ### 👨‍💻 **Software Development**
 
 ##### [L7 Load Balancer and intuitive GUI to edit rules](https://github.com/dharvpat/L7-Load-Balancer)
-*In Progress*: A Layer 7 Load Balancer Dashboard project featuring a high-performance C backend implementing the Weighted Least Connections algorithm and a user-friendly Flask frontend. It includes RESTful APIs for managing load balancing rules and backend servers, real-time metrics monitoring, configuration management, and comprehensive logging, ensuring efficient traffic distribution and seamless frontend-backend communication.
+A Layer 7 Load Balancer Dashboard project featuring a high-performance C backend implementing the Weighted Least Connections algorithm and a user-friendly Flask frontend. It includes RESTful APIs for managing load balancing rules and backend servers, real-time metrics monitoring, configuration management, and comprehensive logging, ensuring efficient traffic distribution and seamless frontend-backend communication. This showcases my proficiency building full scale applications and in-depth software understanding. 
 
 ### ⌛ **Time Series Data Forecasting**
 
