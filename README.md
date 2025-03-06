@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and data enthu
 
 ## 🚀 My Journey
 
-From tinkering with simple Python scripts during my college days to building complex machine learning models, my journey in coding began in a scientific environment—specifically, physics. In this role, I encountered image processing, which sparked a deep dive into the field. Through this exploration, in a very short time, I mastered technologies like **CUDA** and **Vision Transformers**. Seeking to streamline our workflow, I implemented a straight-off-the-shelf Vision Transformer, which was initially overkill for the project's needs. However, I was astonished by the model's performance, and this experience left me mesmerized by the limitless possibilities of AI.
+From tinkering with simple Python scripts during my college days to building complex machine learning models, my journey in coding began in a scientific environment—specifically, physics. In this role, I encountered image processing, which sparked a deep dive into the field. Through this exploration, in a very short time, I mastered technologies like **CUDA** and **Parallel Computing**. Moreover, Seeking to streamline our workflow, I implemented a straight-off-the-shelf Vision Transformer, which was initially overkill for the project's needs. However, I was astonished by the model's performance, and this experience left me mesmerized by the limitless possibilities of AI.
 
 This pivotal moment led me to pursue a master's degree in AI, where I was exposed to a variety of intriguing niches within artificial intelligence. I've delved into each of these areas and remain passionate about AI as a whole, with a particular focus on **Machine Learning**.
 
