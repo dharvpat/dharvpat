@@ -20,6 +20,9 @@ A comprehensive collection of projects focused on **Natural Language Understandi
 ##### [Sentiment Analysis](https://github.com/dharvpat/sentiment-analysis)
 This project builds a **Sentiment Analysis** model using **Convolutional Neural Networks (CNNs)**. It tackles the challenges of representing words and phrases as vectors, enabling the model to accurately discern and categorize sentiments from textual data.
 
+##### [LLM Model-Distillation and Quantization](https://github.com/dharvpat/LLM-Distillation)
+This project build a student model based on 1B parameter llama 3.2 that is distilled from 3B llama 3.2, This noticeably improves model perplexity and keeps the low memory nature of the 1B parameter model. Extremely helpful when needs complicated models in a restricted memory use-case. The code also performs quantizations on the models before training due to memory limitations.
+
 ##### [Reproducing GPT-3](https://github.com/dharvpat/GPT-3-Reproduction)
 *In Progress*: The goal of this project is to fully train a reproduction of GPT-3 which is just a few generations behind current model used by OpenAI. This Project aims to understand the nitty-gritty of LLMs and gaining a more nuanced understanding of certain features/bugs of LLMs including but not limited to Hallucinations. Due to hardware limitations, we will train a smaller model but the core of the model should work identically.
 
