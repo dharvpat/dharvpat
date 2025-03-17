@@ -72,6 +72,9 @@ A hands-on project with **Deep Convolutional GANs**, this repository experiments
 ##### [Noise Cancellation using Neural Networks](https://github.com/dharvpat/Denoising-AutoEncoder)
 Aiming to develop a real-time **Noise Cancellation** model, this project initially started with an **AutoEncoder** architecture to remove noise from data streams. Facing architectural challenges, it pivoted to a **1D U-Net** model, achieving comparable results with significantly reduced computational time. Explore the journey and the solutions implemented to enhance real-time noise reduction.
 
+##### [Ollama Typescript VScode Extension](https://github.com/dharvpat/vscode-ollama-extension)
+*In Progress* With little to no experience in Front-end Development, but a drive to learn about it, I started writing an extension for vscode that utilizes ollama to make a completely local In-Editor code optimizer. This will be refined as time goes on but, I have set up a good fundamental architecture to deploy better aesthetic functionalities and improvements.
+
 ##### [Automating Neural Architecture Search: A Deep Dive Using Reinforcement Learning and Evolutionary Strategies](https://github.com/dharvpat/Neural-Architectural-Search/tree/main)
 This project automates the design of deep learning models using Neural Architecture Search (NAS). Leveraging both Reinforcement Learning (RL) and Evolutionary Algorithms (EA), it dynamically generates and optimizes architectures for image classification on the CIFAR-10 dataset. The project explores how NAS can outperform manual architecture design by efficiently balancing accuracy and computational cost, based on insights from the paper "Neural Architecture Search: Insights from 1000 Papers." The final models are evaluated based on accuracy, complexity, and efficiency.
 
